@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yO6B/8VGI3e6tGUUSoufLm4Oh4MFHp4wJID/Vc4pOSz4pQA8aSwTup68Ek8f1CxzroQzpa01zlHQXg5QGrbeXA==",
+  "success": true,
+  "projectFilePath": "/home/jf/Development/MiniZoo/MiniZoo.csproj",
+  "expectedPackageFiles": [
+    "/home/jf/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
